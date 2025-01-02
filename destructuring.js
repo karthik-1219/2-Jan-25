@@ -11,7 +11,7 @@ console.log("Person : ",per) ;
 //console.log("Last Name : ",per.lName) ;
 
 console.log("After Des...")
-let {fName , lName} = per ;
+let {fName , lName} = per ; 
 console.log("First Name : ",fName) ;
 console.log("Last Name : ",lName) ;
                                         
